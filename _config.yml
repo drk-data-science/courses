@@ -20,3 +20,5 @@ github:
 
 gems:
   - jekyll-redirect-from
+
+theme: jekyll-theme-hacker
