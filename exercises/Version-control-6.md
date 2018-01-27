@@ -5,8 +5,8 @@ title: Version Control 6
 
 *These exercises assume that you are working in pairs to add and
  modify files in a common repository. The files are available in the
- [`data`]({{ site.baseurl }}/tree/master/data) and
- [`code`]({{ site.github.url }}/code) directories of
+ [`data`](https://github.com/drk-data-science/data-focused-python/tree/master/data) and
+ [`code`](https://github.com/drk-data-science/data-focused-python/tree/master/code) directories of
  the course repository.*
 
 You're working on a large project trying to predict diversity hotspots. Another
