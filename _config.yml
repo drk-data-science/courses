@@ -6,17 +6,17 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            Programming for Data Science
+title:            Data Focused Python
 tagline:          'A Jekyll theme'
-description:      'Teaching data scientists the tools they need to use computers to do data science'
-url:              http://nyu-cds.github.io/
-baseurl:          /courses
+description:      'Teaching informatin systems students the tools they need to do data science'
+url:              https://drk-data-science.github.io/data-focused-python/
+baseurl:          /
 
 author:
-  name:           'Greg Watson'
+  name:           'Brian Kolowitz'
 
 github:
-  repo:           https://github.com/nyu-cds/courses/tree/master
+  repo:           https://github.com/drk-data-science/data-focused-python
 
 gems:
   - jekyll-redirect-from
