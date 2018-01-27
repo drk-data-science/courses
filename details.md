@@ -4,7 +4,8 @@ title: Advanced Python for Data Science
 redirect_from: /advanced-programming/
 ---
 
-Instructor: [Dr. Brian Kolowitz](mailto:bkolowitz@gmail.com) [LinkedIn](https://www.linkedin.com/in/briankolowitz/)
+Instructor: [Dr. Brian Kolowitz](mailto:bkolowitz@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/briankolowitz/){:target='_blank'} [Twitter](https://twitter.com/BrianKolowitz){:target='_blank'}
 
 
 * [Syllabus]({{ site.github.url }}/syllabus/syllabus)
