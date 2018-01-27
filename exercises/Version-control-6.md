@@ -5,7 +5,7 @@ title: Version Control 6
 
 *These exercises assume that you are working in pairs to add and
  modify files in a common repository. The files are available in the
- [`data`]({{ site.github.url }}/data) and
+ [`data`]({{ site.baseurl }}/tree/master/data) and
  [`code`]({{ site.github.url }}/code) directories of
  the course repository.*
 
