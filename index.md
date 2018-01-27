@@ -1,6 +1,6 @@
 ---
 layout: default
-redirect_from: /
+redirect_from: /data-focused-python/
 ---
 
 This is the website for the Data Focused Python programming course for information systems students. 
