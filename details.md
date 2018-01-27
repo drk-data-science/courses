@@ -5,11 +5,12 @@ redirect_from: /advanced-programming/
 ---
 
 Instructor: [Dr. Brian Kolowitz](mailto:bkolowitz@gmail.com)
-* [LinkedIn](https://www.linkedin.com/in/briankolowitz/){:target='_blank'} 
+
+* [LinkedIn](https://www.linkedin.com/in/briankolowitz/){:target='_blank'}
 * [Twitter](https://twitter.com/BrianKolowitz){:target='_blank'}
 
-
 Content:
+
 * [Syllabus]({{ site.github.url }}/syllabus/syllabus)
 * [Syllabus]({{ site.github.url }}/syllabus/advanced-syllabus)
 * [Schedule]({{ site.github.url }}/syllabus/advanced-schedule)
