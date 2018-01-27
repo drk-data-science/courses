@@ -5,6 +5,7 @@ redirect_from: /advanced-programming/
 ---
 
 Instructor: [Dr. Brian Kolowitz](mailto:bkolowitz@gmail.com)
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 
 * [Syllabus]({{ site.github.url }}/syllabus/syllabus)
 * [Syllabus]({{ site.github.url }}/syllabus/advanced-syllabus)
