@@ -10,7 +10,7 @@ title:            Data Focused Python
 tagline:          'A Jekyll theme'
 description:      'Teaching information systems students the tools they need to do data science.'
 url:              https://drk-data-science.github.io/data-focused-python/
-baseurl:          /data-focused-python
+baseurl:          /
 
 author:
   name:           'Brian Kolowitz'
