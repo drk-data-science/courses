@@ -10,7 +10,7 @@ Instructor: [Dr. Brian Kolowitz](mailto:bkolowitz@gmail.com)
 * [Syllabus]({{ site.github.url }}/syllabus/advanced-syllabus)
 * [Schedule]({{ site.github.url }}/syllabus/advanced-schedule)
 * [Assignments]({{ site.github.url }}/assignments)
-* [Setup]({{ site.github.url }}/advanced-setup)
+* [Setup]({{ site.github.url }}/setup)
 
 
 Python is now being widely used in data science and scientific computing. It is easy to learn, and it has a large number of libraries available that do everything from web scraping to image manipulation to accessing databases.
